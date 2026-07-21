@@ -13,7 +13,7 @@ We publish our verdicts and settlements database as open data:
 ## SetCalc on the web
 
 - [Settlement calculator](https://setcalc.com): estimate what a personal injury claim is worth
-- [Verdicts and settlements database](https://setcalc.com/personal-injury-verdicts-and-settlements): browse and filter every published record
+- [Verdicts and settlements database](https://setcalc.com/personal-injury-settlements-and-verdicts): browse and filter every published record
 - [Settlement guides](https://setcalc.com/guides): free guides to car accident and injury settlements by state and injury type
 - [Attorneys: submit a case result](https://setcalc.com/submit-case-result)
 
